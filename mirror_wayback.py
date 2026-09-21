@@ -232,7 +232,7 @@ class Mirror:
                 body, content_type, final_url = self.fetch(original)
             except (HTTPError, URLError, TimeoutError, OSError) as exc:
                 self.attempts[original] += 1
-                network_block = "curl: (7)" in str(exc) or "curl: (28)" in str(exc)
+                network_block = "curl: (7)" in str(exc)
                 limit = 12 if network_block else 3
                 if self.attempts[original] < limit:
                     print(f"RETRY {self.attempts[original]}/{limit - 1} {original}: {exc}", flush=True)
