@@ -1,0 +1,706 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://legacy.aistconf.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Analysis of Images, Social Networks, and Texts</title>
+ <link>http://legacy.aistconf.org</link>
+ <description>Новости конференции АИСТ.</description>
+ <language>ru</language>
+<item>
+ <title>Accepted Papers</title>
+ <link>http://legacy.aistconf.org/node/101</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;h1&gt;Springer LNCS&lt;/h1&gt;
+
+&lt;p&gt;Overall, we recieved 127 submissions out of which 28 papers were rejected without reviewing (these are partial submissions or papers violated the submission rules). The remaining 99 papers were reviewed by at least 3 reviewers. The best 37 papers in the respectieve sections listed below were selected for publication in Springer LNCS volume. Note that in each section acceptance rate varied in the range 33-41%: the total acceptance rate is 37%.&lt;/p&gt;
+
+&lt;h2&gt;Natural Language Processing&lt;/h2&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;Natalia Loukachevitch, Mikhail Nokel and Kirill Ivanov. Combining Thesaurus Knowledge and Probabilistic Topic Models&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Andrey Kutuzov and Maria Kunilovskaya. Size VS structure in training corpora for word embedding models: Araneum Russicum Maximum and Russian National Corpus&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Alexey Zobnin. Rotations and interpretability of word embeddings: the case of the Russian language&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Elena Bolshakova and Alexander Sapin. A morphological processor for Russian with extended functionality&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Luiza Sayfullina, Eric Malmi, Yiping Liao and Alex Jung. Domain adaptation for resume classification using Convolutional Neural Networks&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Ilseyar Alimova and Elena Tutubalina. Automated Detection of Adverse Drug Reactions From Social Media Posts With Machine Learning&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Dmitry Ustalov, Mikhail Chernoskutov, Chris Biemann and Alexander Panchenko. Fighting with Sparsity of the Synonymy Dictionaries for Automatic Synset Induction&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Oleg Durandin, Alexey Malafeev and Nikolai Zolotykh. SyntaxNet Errors from the Linguistic Point of View&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Ekaterina Vylomova, Andrey Shcherbakov, Yuriy Philippovich and Galina Cherkasova. Men Are from Mars, Women Are from Venus: Evaluation and Modeling of Verbal Associations&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Kirill Nikolaev and Alexey Malafeev. Russian-Language Question Classification: a New Typology and First Results&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Amir Bakarov and Olga Gureenkova. Word Embedding Models in Automatic Detection of Semantic Similarity of Messages from the Russian Imageboard 2ch&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2&gt;General Topics of Data Analysis&lt;/h2&gt;
+
+&lt;ol start=&quot;12&quot;&gt;
+&lt;li&gt;&lt;p&gt;Roman Chereshnev and Attila Kertesz-Farkas. HuGaDB: Human Gait Database for Activity Recognition from Wearable Inertial Sensor Networks&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Kirill Kuptsov, Sergey Eremeev and Semen Romanov. Algorithm for establishing the correspondence of spatial objects on different-scale maps based on methods of computational topology&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Ilya Makarov, Dmitry Savostyanov, Boris Litvyakov and Dmitry Ignatov. Predicting Winning Team and Probabilistic Ratings in Dota 2 and Counter-Strike: Global Offensive Video Games&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Anton Eremeev, Alexander Kelmanov, Artem Pyatkin and Igor Ziegler. Maximum Cardinality Subset of Vectors with a Constraint on Normalized Squared Length of Vectors Sum&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Anna Gromova. Using Cluster Analysis for Characteristics Detection in Software Defect Reports&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Evgeniy M. Ozhegov and Alina Ozhegova. Bagging Prediction for Censored Data: Application for Theatre Demand&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Fedor Krasnov, Nikolay Glavnov and Alexander Sitnikov. Machine learn approach to EOR prediction&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2&gt;Analysis of Images and Video&lt;/h2&gt;
+
+&lt;ol start=&quot;19&quot;&gt;
+&lt;li&gt;&lt;p&gt;Angelina Kharchevnikova, Anastasiia Sokolova and Andrey Savchenko. Organizing Multimedia Data in Video Surveillance Systems Based on Face Verification with Convolutional Neural Networks&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Ramon Antonio Rodriges Zalipynis, Evgeniy Pozdeev and Anton Bryukhov. Array DBMS and Satellite Imagery: Towards Big Raster Data in the Cloud&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Alexandr Notchenko, Yermek Kapushev and Evgeny Burnaev. Large-Scale Shape Retrieval with Sparse 3D Convolutional Neural Networks&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Alexey Ruchay and Vitaly Kober. Impulsive noise removal from color images with morphological filtering&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Evgeny Myasnikov. Nonlinear dimensionality reduction of hyperspectral data using spectral correlation as a similarity measure&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Yulia Novskaya and Ma Li-Zhuang. Floor-Ladder Framework For Human Face Beautications&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Andrey Kuznetsov and Vladislav Myasnikov. Satellite image forgery detection based on buildings shadows analysis&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Andrey Bokovoy and Konstantin Yakovlev. Original Loop-closure Detection Algorithm for Monocular vSLAM&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2&gt;Optimization Problems on Graphs and Network Structures&lt;/h2&gt;
+
+&lt;ol start=&quot;27&quot;&gt;
+&lt;li&gt;&lt;p&gt;Alexander Kelmanov, Sergey Khamidullin and Vladimir Khandeev. A randomized algorithm for 2-partition of a sequence&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Edward Gimadi. An exact algorithm for the Outerplanar Facility Location Problem with improoved time complexity&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Edward Kh. Gimadi and Oxana Tsidulko. Approximation Algorithms for the Maximum m-Peripatetic Salesman Problem&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Alexander Kelmanov, Anna Motkova and Vladimir Shenmaier. An Approximation Scheme for a Weighted Two-Cluster Partition Problem&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Michael Khachay and Katherine Neznakhina. Polynomial time solvable subclass of the Generalized Traveling Salesman Problem on Grid Clusters&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Daniel Khachay, Michael Khachay and Maria Poberiy. Hitting Set Problem for Axis-Parallel Squares Intersecting a Straight Line is polynomially solvable for any fixed range of square sizes&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Konstantin Kobylkin. Stabbing line segments with disks: complexity and approximation algorithms&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2&gt;Analysis of Dynamic Behavior through Event Data&lt;/h2&gt;
+
+&lt;ol start=&quot;34&quot;&gt;
+&lt;li&gt;Andrey Konchagin and Anna Kalenkova. On the efficient application of Aho-Corasick algorithm in process mining field&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2&gt;Social Network Analysis&lt;/h2&gt;
+
+&lt;ol start=&quot;35&quot;&gt;
+&lt;li&gt;&lt;p&gt;Ilya Makarov, Oleg Bulanov, Olga Gerasimova, Natalia Mescheryakova, Leonid Zhukov and Ilia Karpov. Scientific Matchmaker: Collaborator Recommender System&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Alexander Harlamov. Dynamic semantic network analysis of unstructured text corpuses&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Sofia Dokuka, Ekaterina Krekhovets and Margarita Priymak. Health, grades and social networks: How GPA and BMI contribute in friendship formation&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h1&gt;Posters with a Publication in the Supplementary Volume&lt;/h1&gt;
+
+&lt;p&gt;Preliminary results presented in the following papers will be discussed during the poster session, and will appear in the supplementary volume of the conference published by the CEUR-WS workshop proceedings:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Anna Glazkova, Valery Kruzhinov and Zinaida Sokova. Automatic Compilation of Person&#039;s Information Portraits as an Instrument of Historical Research&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Vladimir Vakourin, Andrei Kopylov, Konstantin Mertsalov and Oleg Seredin.  Active Learning Strategy for Text Categorization Based on Support Vectors Relative Positioning&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Dmitry Namiot and Manfred Sneps-Sneppe.  A survey of smart cards data mining&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Anna Denisova, Andrey Kuznetsov and Nikolay Glumov.  MULTICHANNEL IMAGE SEGMENTATION ALGORITHM FOR AGRICULTURAL  CROP DETECTION&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Anna Lempert, Alexander Kazakov and Quang Mung Le.  An Algorithm for Packing Circles of Two Types in a Fixed Size Container with Non-Euclidean Metric&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Mikhail Petrushan, Mikhail Kopeliovich, Aik Kurdoglyan and Anatoly Samarin.  A Method for Describing and Recognizing Fragments of Visual Scenes on the Basis of Descriptors Trajectories Analyzing in the Feature Space&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Van Truong Nguyen and Andrey Aleksandrovich Tropchenko.  Fast Multigrid Pattern Search for Motion Estimation in Hybrid Compression Systems&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Anastasia Amieva, Viktor Filimonov, Andrey Zhivodyorov and Anna Kramarenko.  Statistical description of Russian texts: parameters and factors&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Daria Korotaeva and Maksim Khlopotov.    Feature Engineering for Tree Leaf Classifier&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Yury Gapanyuk, Sergey Chernobrovkin, Igor Latkin, Aleksey Leontiev, Grigory Ozhegov, Alexander Opryshko and Maxim Myalkin.    Architecture and implementation of an intelligent news analysis system&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Jaroslav Bologov, Konstantin Kotik and Alexander Andreev.    Bank Licenses Revocation Modeling&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Ksenia Lagutina, Ivan Shchitov, Nadezhda Lagutina and Ilya Paramonov.    Applicability of Automatically Generated Thesauri to  Text Classification in Specific Domains&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Julius Klenin and Dmitry Botov.  Comparison of vector space representations of documents for the task of matching contents of educational course programmes&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Tatiana Litvinova, Dmitry Gudovskikh, Alexandr Sboev, Pavel Seredin, Olga Litvinova, Dina Pisarevskaya and Paolo Rosso.  Author Gender Prediction in Russian Social Media Texts&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Nadezhda Evdokimova and Vladislav Myasnikov. An algorithm for copy-move forgery detection in image time series based on the anomalies detection&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Valentin Malykh. Generalizable Architecture for Robust Word Vectors&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Sergey Vychegzhanin and Evgeny Kotelnikov.  Stance detection in Russian: a feature selection and machine learning based  approach&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Victor Kantor. Optimization task in equivalent to word2vec matrix factorization&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Ilya Makarov, Andrej Kashin and Alisa Korinevskaya. Learning to Play Pong Video Game via Deep Reinforcement Learning:  Tweaking Deep Q-Networks versus Episodic Control&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Alexander Varnavsky. Adaptation Algorithm of the Computer Text Font Size for Optimal Perception&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Vladislav Grozin and Alla Levina.  Similar product clustering for long-tail cross-sell recommendations&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Alexey A. Mitsyuk, Irina A. Lomazova, Ivan S. Shugurov and Wil M. P. van der Aalst. Process Model Repair by Detecting Unfitting Fragments&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Kirill Tsyganov, Alexey Kozionov, Jaroslav Bologov, Alexandr Andreev, Oleg Mangutov and Ivan Gorokhov. Automated Objects’  Area Assessment Using Deep Learning Approach and Satellite Imagery Data&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Sergey Salibekyan and Petr Panfilov. Linguistic processor based on object-attribute grammar&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Nikolay Karpov, Alexander Demidovskij and Alexey Malafeev. Development of a Model to Predict Intention Using Deep Learning&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Viacheslav Lanin and Sofia Philipson. Ontology based approach to academic style marker identification&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Gulmira Bekmanova, Altynbek Sharipbay, Gulila Altenbek, Esref Adali, Lena Zhetkenbay, Unzila Kamanur and Altanbek Zulkhazhav. Unified morphological analyzer for Kazakh and Turkish languages&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Vladimir Matveenko.  On a typology of nodes and its applications in network analysis&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Vladimir Vlasov. AI User Support System for SAP ERP&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Seungjin Lim.  On Analysis and Visualization of Interpersonal Interaction Networks&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Yuri Ogorodnikov.  Combining Fixed-point Iteration Method and Bayesian Rounding for approximation of 3-SAT&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Vladimir Khandeev.  Short survey on the results for оne problem of 2-clustering&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Anna Motkova.  Short survey on the results for one weighted two-cluster partition problem&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Maksim Berezov, Sergey Lebedev and Natalia Zhukova. Extraction of named entities from semi-structured texts for medical domain&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Daniil Alexeyevsky.  Word Sense Disambiguation for Russian Taxonomy Extraction&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Aleksandr Romanov, Konstantin Lomotin and Ekaterina Kozlova. Automatization of Scientific Articles Classification According to UDC&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Nikolay Arefyev and Pavel Ermolaev. Baselines and Symbol N-Grams: Simple, Good Part-Of-Speech Tagging of Russian&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Dmitry Levando. Formation of Coalition Structures as a Non-Cooperative Game&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Olga Zvereva, Dmitry B. Berg and Andrey Kondratyev. Structural Patterns for System Sustainability: Experimental Study&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1&gt;Posters without a Publication&lt;/h1&gt;
+
+&lt;p&gt;Preliminary results presented in the following papers will be discussed during the poster session, but will not appear in the proceedings:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Alexandra Spiridonova and Svyatoslav Rysakov. Design and Implementation of an Algorithm for Fiction Characters Tracking&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Fedor Krasnov and Rostislav Yavorsky. Mapping Trends in Petroleum Science and Engineering via Full-text Analysis of OnePetro Papers&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Sergey Politsyn and Ekaterina Politsyna. The Usage of Markem Analysis for Keyword Extraction in the Complex of Automated Text Processing Tools for the Russian Language&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Elena Zamyatina, Alexander Mikov and Viacheslav Lanin. Automation of Some Steps of Simulation Using Ontological Approach&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Mohamed Naili, Abdelhak Boubetra, Abdelkamel Tari and Makhlouf Naili. Extracting weights and ranking alternatives based on fuzzy pairwise comparison matrices using a Brain Inspired Method for solving Fuzzy Multi-Criteria Decision Making problems&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Dmitry Matveyev, Yuriy Philippovich and Galina Cherkasova. The Program of Conducting a Linguistic Associative Experiment&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Ivan Kershner, Konstantin Obukhov, Yury Obukhov, Ilya Komoltsev and Inna Maluta. Approach for detection and classification of high voltage rhythmic spikes and sleep spindles in EEG of rats after traumatic brain injury&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Sergey Dyachkov, Vladimir Kutrunov, Vadim Kuznetsov and Viktor Todosiychuk. Wavelet analysis as the method of time series preprocessing for solving classification problem, by example of ECG-signal analysis&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Maksim Statsenko. Probablistic Topic Modeling in classification problems&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Andrey Parasich, Igor Kaftannikov, Victor Parasich and Irina Parasich. Geometric figure recognition using segment descriptions and modified Hough transform&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Denis Privezentsev, Arcady Zhiznyakov and Egor Pugin. Using fuzzy fractal features of digital images for the detection of surface defects&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Tatjana Serezhnikova. An effective subgradient method for simultaneous restoration and segmentation of blurred images&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Alexander Parshin and Yury Parshin. Statistical estimation of covering dimension and correlation dimension of radar images&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Ilya Makarov and Diana Polonskaya. Improving Picture Quality with Photo-based Style Transfer&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Andrew Potekhin, Aleksandr Bugaenko and Ekaterina Mangalova. Optimal parameter bounds finding in the traffic flow estimation problem&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Evgenii Goncharov. On Some Algorithms for the Resource Constrained Project Scheduling Problems&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Elena Nagornaya and Anna Kurochkina. On some algorithms for solving capacitated clustering-location problems on the tree and the real line&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Javad Rivandi and Amir Hossein Rahmani Sani. Quality of service (QoS) in WiMAX&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Margarita Kuleva and Daria Maglevanaya. Fashion models professional prestige: dynamics and networks&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Yanis Suleimanov, Fail Gafarov, Natalia Emelianova and Nail Khusnutdinov. Modeling of interstitial branching of axonal networks&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Gulmira Bekmanova, Banu Yergesh and Altynbek Sharipbay. Sentiment Analysis on hotel reviews in Kazakh language&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Elena Kotyrlo and Olga Stognieva. Some Approaches to Social Network Sites Analysis&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Anatoly Manita and Larisa Manita. Distributed time synchronization algorithms and opinion dynamics&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1&gt;Registration&lt;/h1&gt;
+
+&lt;p&gt;All speakers and participants are requested to register at &lt;a href=&quot;http://aistconf.ru/#tile_tickets&quot;&gt;aistconf.ru&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Should you have any questions or need assistance, please contact the Organizing Commitee via contact form on &lt;a href=&quot;http://aistconf.ru/&quot;&gt;aistconf.ru&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Tue, 27 Jun 2017 15:14:38 +0000</pubDate>
+ <dc:creator>panchenko</dc:creator>
+ <guid isPermaLink="false">101 at http://legacy.aistconf.org</guid>
+ <comments>http://legacy.aistconf.org/node/101#comments</comments>
+</item>
+<item>
+ <title>Accepted Papers</title>
+ <link>http://legacy.aistconf.org/node/100</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;...&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Tue, 27 Jun 2017 15:12:01 +0000</pubDate>
+ <dc:creator>panchenko</dc:creator>
+ <guid isPermaLink="false">100 at http://legacy.aistconf.org</guid>
+ <comments>http://legacy.aistconf.org/node/100#comments</comments>
+</item>
+<item>
+ <title>The 6th International Conference on Analysis of Images, Social Networks, and Texts</title>
+ <link>http://legacy.aistconf.org/2017/en</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;h3&gt;REGISTRATION, SPEAKERS AND SCHEDULE&lt;/h3&gt;
+
+&lt;p&gt;Please see the current schedule, speakers, news and registration links at our new site &lt;a href=&quot;http://aistconf.ru&quot;&gt;http://aistconf.ru&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Please note that all participants should register and pay the conference fee. Please select the appropriate ticket type at our &lt;a href=&quot;https://graphicon.timepad.ru/event/494670/&quot;&gt;Timepad page&lt;/a&gt;.  Thanks to our kind sponsors support, we can offer limited number of fee waivers for any category participant. Please contact the organizing committee through the &lt;a href=&quot;http://aistconf.ru/#tile_contact&quot;&gt;site contact form&lt;/a&gt; or email (org - at - aistconf.org)&lt;/p&gt;
+
+&lt;p&gt;All updates about the conference are published on the &lt;a href=&quot;http://aistconf.ru/category/blog/&quot;&gt;Conference Blog&lt;/a&gt;, as well as on our &lt;a href=&quot;https://www.facebook.com/groups/aistconf/&quot;&gt;Facebook&lt;/a&gt; and &lt;a href=&quot;https://vk.com/aistconf&quot;&gt;VK&lt;/a&gt; groups.&lt;/p&gt;
+
+&lt;p&gt;You are welcome to contact us at any time for assistance.&lt;/p&gt;
+
+&lt;h3&gt;AIM AND SCOPE&lt;/h3&gt;
+
+&lt;p&gt;AIST is a scientific conference on Analysis of Images, Social Networks, and Texts. The conference is intended for computer scientists and practitioners whose research interests involve Internet mathematics and other related fields of data science. Similar to the previous year, the conference will be focused on applications of data mining and machine learning techniques to various problem domains: image processing, analysis of social networks, and natural language processing.
+We hope that the participants will benefit from the interdisciplinary nature of the conference and exchange experience.&lt;/p&gt;
+
+&lt;p&gt;Publication of revised selected papers is performed as a post-proceedings in the Springer&#039;s &lt;a href=&quot;http://www.springer.com/lncs&quot;&gt;Lecture Notes in Computer Science (LNCS)&lt;/a&gt; series.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://nlpub.ru/images/c/c8/Springer_lncs_logo.jpg&quot; alt=&quot;LNCS&quot; /&gt;&lt;/p&gt;
+
+&lt;h3&gt;PREVIOUS EDITIONS&lt;/h3&gt;
+
+&lt;p&gt;If you did not participate before in the AIST conference you can take a look at the proceedings of the last three years to get an idea about which kind of papers are accepted and which kinds of topics are discussed at the conference:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;AIST 2016&lt;/strong&gt;: &lt;a href=&quot;http://www.springer.com/en/book/9783319529196&quot;&gt;Springer Communications in Computer and Information Science (CCIS) vol. 661&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;AIST 2015&lt;/strong&gt;:  &lt;a href=&quot;http://www.springer.com/en/book/9783319261225&quot;&gt;Springer Communications in Computer and Information Science (CCIS) vol. 542&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;AIST 2014&lt;/strong&gt;: &lt;a href=&quot;http://www.springer.com/en/book/9783319125794&quot;&gt;Springer Communications in Computer and Information Science (CCIS) vol. 436&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Note that the proceedings of this year are published in the LNCS series, not the CCIS series as before.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://link.springer.com/book/10.1007%2F978-3-319-52920-2&quot;&gt;Download full proceedings of the previous year from Springer (AIST 2016)&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h3&gt;PAPER TOPICS&lt;/h3&gt;
+
+&lt;p&gt;The scope of the conference includes but not limited to the following topics: &lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Social Network Analysis&lt;/li&gt;
+&lt;li&gt;Natural Language Processing&lt;/li&gt;
+&lt;li&gt;Recommender systems and collaborative technologies&lt;/li&gt;
+&lt;li&gt;Process mining&lt;/li&gt;
+&lt;li&gt;Analytics for geoinformation systems&lt;/li&gt;
+&lt;li&gt;Analysis of images and video&lt;/li&gt;
+&lt;li&gt;Discovering and analyzing processes using event data&lt;/li&gt;
+&lt;li&gt;Game analytics&lt;/li&gt;
+&lt;li&gt;Core Data Mining and Machine Learning techniques&lt;/li&gt;
+&lt;li&gt;Semantic Web and Ontologies&lt;/li&gt;
+&lt;li&gt;Educational Data Mining&lt;/li&gt;
+&lt;li&gt;ML &amp;amp; DM for Economics and Social Sciences&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This year, we also have a separate track on analysis of dynamic behavior through event data. An analysis of big data, containing dynamic processes of systems’ executions and collaborations in a form of event logs, is a challenging research direction also known as process mining or business process intelligence. Techniques for constructing process models from event logs, finding log and model deviations, and enhancing pre-existing process models with additional information extracted from logs can significantly assist in understanding systems’ behavior. Papers presenting original process mining approaches as well as case studies in discovering and analyzing processes using event data are sought. 
+The scope of the section includes but not limited to the following topics:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Algorithms and approaches for the discovery of process models from event logs;&lt;/li&gt;
+&lt;li&gt;Techniques for the discovery of social nets from communication logs;&lt;/li&gt;
+&lt;li&gt;Representation and visualization of models discovered from event logs;&lt;/li&gt;
+&lt;li&gt;Methods for finding deviations between real and expected system’s behavior;&lt;/li&gt;
+&lt;li&gt;Complex event processing to assist process intelligence;&lt;/li&gt;
+&lt;li&gt;Compliance management and conformance checking;&lt;/li&gt;
+&lt;li&gt;Applying process mining techniques in various domains, such as e-government, healthcare, banking, manufacturing, booking systems and others.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3&gt;LOCATION&lt;/h3&gt;
+
+&lt;p&gt;The 6th conference on Analysis of Images, Social Networks, and Texts will take place in Moscow, Russia from Thursday, 27th through Saturday, 29th of July 2017.&lt;/p&gt;
+
+&lt;h3&gt;IMPORTANT DATES&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Submission of abstracts (&lt;strong&gt;extended&lt;/strong&gt;): &lt;del&gt;April 30, 2017&lt;/del&gt; &lt;strong&gt;May 7, 2017&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Deadline for papers (&lt;strong&gt;extended&lt;/strong&gt;): &lt;del&gt;May 7, 2017&lt;/del&gt; &lt;del&gt;May 14, 2017&lt;/del&gt; &lt;strong&gt;May 17, 2017&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Notification of Acceptance (extended): &lt;del&gt;June 7, 2017&lt;/del&gt; &lt;del&gt;June 14, 2017&lt;/del&gt; June 19, 2017&lt;/li&gt;
+&lt;li&gt;The Conference: July 27 - 29, 2017&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Timezone: https://www.timeanddate.com/time/zones/aoe&lt;/p&gt;
+
+&lt;h3&gt;PROGRAM COMMITTEE BOARD&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Track 1. General topics of data analysis&lt;/strong&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.hse.ru/en/staff/skuznetsov&quot;&gt;Sergey Kuznetsov&lt;/a&gt; (Higher School of Economics, Russia)&lt;br /&gt;
+&lt;a href=&quot;https://members.loria.fr/ANapoli/&quot;&gt;Amedeo Napoli&lt;/a&gt; (LORIA, France)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Track 2. Natural language processing&lt;/strong&gt;&lt;br /&gt;
+&lt;a href=&quot;https://scholar.google.com/citations?user=FKkWXLkAAAAJ&amp;amp;hl=en&quot;&gt;Natalia Loukachevitch&lt;/a&gt; (Moscow State Lomonosov University, Russia)&lt;br /&gt;
+&lt;a href=&quot;https://www.inf.uni-hamburg.de/en/inst/ab/lt/people/alexander-panchenko.html&quot;&gt;Alexander Panchenko&lt;/a&gt; (University of Hamburg, Germany)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Track 3. Social network analysis&lt;/strong&gt;&lt;br /&gt;
+&lt;a href=&quot;http://psych.indiana.edu/faculty/stanwass.php&quot;&gt;Stanley Wasserman&lt;/a&gt; (Indiana University, USA)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Track 4. Analysis of images and video&lt;/strong&gt;&lt;br /&gt;
+&lt;a href=&quot;http://sites.skoltech.ru/compvision/members/vilem/&quot;&gt;Victor Lempitsky&lt;/a&gt; (Skolkovo Institute of Science and Technology, Russia)&lt;br /&gt;
+&lt;a href=&quot;https://www.hse.ru/en/staff/avsavchenko&quot;&gt;Andrey Savchenko&lt;/a&gt; (Higher School of Economics, Russia)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Track 5. Optimization problems on graphs and network structures&lt;/strong&gt;&lt;br /&gt;
+&lt;a href=&quot;http://www.ise.ufl.edu/pardalos/&quot;&gt;Panos M. Pardalos&lt;/a&gt; (University of Florida, USA)&lt;br /&gt;
+&lt;a href=&quot;https://scholar.google.ru/citations?user=uWkMwbQAAAAJ&amp;amp;hl=en&quot;&gt;Mikhail Khachay&lt;/a&gt; (IMM UB RAS &amp;amp; Ural Federal University, Russia)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Track 6. Analysis of dynamic behavior through event data&lt;/strong&gt;&lt;br /&gt;
+&lt;a href=&quot;http://wwwis.win.tue.nl/~wvdaalst/&quot;&gt;Wil van der Aalst&lt;/a&gt; (Eindhoven University of Technology, The Netherlands)&lt;br /&gt;
+&lt;a href=&quot;https://www.hse.ru/en/staff/ilomazova&quot;&gt;Irina Lomazova&lt;/a&gt; (Higher School of Economics, Russia)&lt;/p&gt;
+
+&lt;h3&gt;ORGANIZING COMMITTEE&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Rostislav Yavorskiy, chair (Higher School of Economics, Russia)&lt;/li&gt;
+&lt;li&gt;Aleksey Buzmakov (Higher School of Economics, Russia)&lt;/li&gt;
+&lt;li&gt;Marina Danshina (Moscow Polytechnic University, Russia)&lt;/li&gt;
+&lt;li&gt;Alexander Panchenko (University of Hamburg, Germany)&lt;/li&gt;
+&lt;li&gt;Anna Kalenkova (Higher School of Economics, Russia)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3&gt;STEERING COMMITTEE&lt;/h3&gt;
+
+&lt;p&gt;Dmitry Ignatov (Higher School of Economics, Russia)&lt;br /&gt;
+Mikhail Khachay (IMM UB RAS &amp;amp; Ural Federal University, Russia)&lt;br /&gt;
+Alexander Panchenko (University of Hamburg, Germany)&lt;br /&gt;
+Rostislav Yavorskiy (Higher School of Economics, Russia)&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Tue, 27 Dec 2016 07:41:48 +0000</pubDate>
+ <dc:creator>mpasynkov</dc:creator>
+ <guid isPermaLink="false">95 at http://legacy.aistconf.org</guid>
+ <comments>http://legacy.aistconf.org/2017/en#comments</comments>
+</item>
+<item>
+ <title>The 5th international conference on Analysis of Images, Social Networks, and Texts</title>
+ <link>http://legacy.aistconf.org/2016/en</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;h3&gt;AIM AND SCOPE&lt;/h3&gt;
+
+&lt;p&gt;AIST is a scientific conference on Analysis of Images, Social Networks, and Texts. The conference is intended for computer scientists and practitioners whose research interests involve Internet mathematics and other related fields of data science. Similar to the previous year, the conference will be focused on applications of data mining and machine learning techniques to various problem domains: image processing, analysis of social networks, and natural language processing.
+We hope that the participants will benefit from the interdisciplinary nature of the conference and exchange experience.&lt;/p&gt;
+
+&lt;h3&gt;KEYNOTE SPEAKERS&lt;/h3&gt;
+
+&lt;table width=&quot;100%&quot; &gt;
+&lt;tr&gt;
+&lt;td width=&quot;20%&quot;&gt;&lt;a href=&quot;https://www.linkedin.com/in/mehdikaytoue&quot;&gt;&lt;img width=&quot;&quot; src=&quot;http://dataconf.org/wp-content/uploads/2016/03/111.png&quot; alt=&quot;Mehdi Kaytoue&quot; /&gt;&lt;/a&gt;&lt;/left&gt;&lt;/td&gt;
+&lt;td width=&quot;70%&quot;&gt;&lt;b&gt;Mehdi Kaytoue,&lt;/b&gt; &lt;br&gt;&lt;font size=&quot;-1&quot;&gt;&lt;left&gt;Institut national des sciences appliquées&lt;br&gt;Lyon, France &lt;/font&gt;&lt;p&gt; &lt;i&gt;Finding duplicate labels in behavioral data: an application for E-Sport analytics.&lt;/i&gt;&lt;/left&gt;&lt;/td&gt;
+&lt;td width=&quot;20%&quot;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td width=&quot;20%&quot; style=&#039;padding: 5px&#039; &gt;&lt;a href=&quot;https://www.hse.ru/en/staff/akerteszfarkas&quot;&gt;&lt;img  src=&quot;/stuff/aist2016/partners/attila_circle.png&quot; alt=&quot;Attila Kertesz-Farkas&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td width=&quot;70%&quot;&gt;&lt;b&gt;Attila Kertesz-Farkas,&lt;/b&gt; &lt;br&gt;&lt;font size=&quot;-1&quot;&gt;National Research University &lt;br&gt;Higher School of economics, Moscow, Russia&lt;/font&gt;&lt;p&gt; &lt;i&gt;False discovery rate control for database search methods over heterogeneous biological data.&lt;/i&gt;&lt;/td&gt;
+&lt;td width=&quot;20%&quot;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td width=&quot;20%&quot; style=&#039;padding: 5px&#039; &gt;&lt;a href=&quot;http://kpfu.ru/delhibabu.radhakrishnan&amp;p_lang=2&quot;&gt;&lt;img  src=&quot;/stuff/aist2016/partners/babu.png&quot; width=&quot;200px&quot; alt=&quot;Radhakrishnan Delhibabu&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td width=&quot;70%&quot;&gt;&lt;b&gt;Radhakrishnan Delhibabu,&lt;/b&gt; &lt;br&gt;&lt;font size=&quot;-1&quot;&gt;Kazan Federal University, Kazan, Russia&lt;/font&gt;&lt;p&gt; &lt;i&gt;Analysis of Anisotropic Diffusion in Image Processing.&lt;/i&gt;&lt;/td&gt;
+&lt;td width=&quot;20%&quot;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;h3&gt;PAPER TOPICS&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Social Network Analysis&lt;/li&gt;
+&lt;li&gt;Natural Language Processing&lt;/li&gt;
+&lt;li&gt;Recommender systems and collaborative technologies&lt;/li&gt;
+&lt;li&gt;Analytics for geoinformation systems&lt;/li&gt;
+&lt;li&gt;Analysis of images and video&lt;/li&gt;
+&lt;li&gt;Game analytics&lt;/li&gt;
+&lt;li&gt;Core Data Mining and Machine Learning techniques&lt;/li&gt;
+&lt;li&gt;Semantic Web and Ontologies&lt;/li&gt;
+&lt;li&gt;Educational Data Mining&lt;/li&gt;
+&lt;li&gt;ML &amp;amp; DM for Economics and Social Sciences&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3&gt;LOCATION&lt;/h3&gt;
+
+&lt;p&gt;The 5th conference on Analysis of Images, Social Networks, and Texts was held at the &lt;a href=&quot;http://palladium.red-group.ru/opisanie&quot;&gt;Palladium&lt;/a&gt; business centre, Yekaterinburg, Russia from Thursday, 7th through Saturday, 9th of April 2016.&lt;/p&gt;
+
+&lt;h3&gt;IMPORTANT DATES&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Submission of abstracts: &lt;s&gt;January 10th&lt;/s&gt; &lt;font color=&quot;red&quot;&gt;January 17th&lt;/font&gt; 2016&lt;/li&gt;
+&lt;li&gt;Deadline for papers: &lt;s&gt;January 17th&lt;/s&gt; &lt;font color=&quot;red&quot;&gt;January 31th&lt;/font&gt; 2016&lt;/li&gt;
+&lt;li&gt;Paper Notification: &lt;s&gt;March 1st&lt;/s&gt; &lt;font color=&quot;red&quot;&gt;March 10th&lt;/font&gt; 2016&lt;/li&gt;
+&lt;li&gt;The second round of SNA Hackathon: April 6th - 8th, 2016&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;/stuff/aist2016/partners/AIST_2016_Timetable.pdf&quot;&gt;Scientific sections&lt;/a&gt; of the Conference: April 7th - 8th, 2016&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://dataconf.org/&quot;&gt;Business sections&lt;/a&gt; of the Conference: April 9th, 2016&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3&gt;PROCEEDINGS&lt;/h3&gt;
+
+&lt;p&gt;The conference proceedings will be published in the Springer’s Communications in Computer and Information Science &lt;a href=&quot;http://www.springer.com/series/7899&quot;&gt;series&lt;/a&gt; (under negotiation).&lt;/p&gt;
+
+&lt;p&gt;Previous proceedings can be found at Springer CCIS series as Vol. 436 and CEUR-WS Vol. 1197 (2014), CCIS Vol. 542 and CEUR-WS Vol. 1452 (2015).&lt;/p&gt;
+
+&lt;h3&gt;PROGRAM COMMITTEE BOARD&lt;/h3&gt;
+
+&lt;p&gt;&lt;em&gt;Track 1. General topics of data analysis&lt;/em&gt;&lt;br /&gt;
+Mikhail Khachay, co-chair (IMM UB RAS &amp;amp; Ural Federal University)&lt;br /&gt;
+Konstantin Vorontsov, co-chair (Dorodnicyn Computing Centre RAS, Moscow)&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Track 2. Natural language processing&lt;/em&gt;&lt;br /&gt;
+Natalia Loukachevitch, co-chair (Moscow State Lomonosov University)&lt;br /&gt;
+Alexander Panchenko, co-chair (Universite catholique de Louvain)&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Track 3. Graphs and complex data structures&lt;/em&gt;&lt;br /&gt;
+Dmitry Ignatov, co-chair (Higher School of Economics, Moscow)&lt;br /&gt;
+Sergey Nikolenko, co-chair (Academic University, St. Petersburg)&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Track 4. Analysis of images and video&lt;/em&gt;&lt;br /&gt;
+Valery Labunets, co-chair (Ural Federal University)&lt;br /&gt;
+Andrey Savchenko, co-chair (National Research University Higher School of Economics, Nizhny Novgorod)&lt;/p&gt;
+
+&lt;h3&gt;STEERING COMMITTEE&lt;/h3&gt;
+
+&lt;p&gt;Dmitry Ignatov, co-chair (Higher School of Economics, Moscow)&lt;br /&gt;
+Mikhail Khachay, co-chair (IMM UB RAS &amp;amp; Ural Federal University)&lt;br /&gt;
+Alexander Panchenko, co-chair (Universite catholique de Louvain)&lt;br /&gt;
+Rostislav Yavorskiy, co-chair (Higher School of Economics, Moscow)&lt;/p&gt;
+
+&lt;h3&gt;HACKATHON&lt;/h3&gt;
+
+&lt;p&gt;The second round of &lt;a href=&quot;http://snahackathon.org/&quot;&gt;SNA Hackathon 2016&lt;/a&gt; took place on April 6-8th.&lt;br /&gt;
+Follow latest news in SNA Hackathon groups in social networks: &lt;a href=&quot;http://ok.ru/sna.hackathon&quot;&gt;http://ok.ru/sna.hackathon&lt;/a&gt;, &lt;a href=&quot;http://vk.com/snahackathon&quot;&gt;http://vk.com/snahackathon&lt;/a&gt; and twitter account &lt;a href=&quot;http://twitter.com/SNAHackathon&quot;&gt;http://twitter.com/SNAHackathon&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The SNA Hackathon 2016 poster can be downloaded &lt;a href=&quot;https://cloud.mail.ru/public/K3bP/miu3QZt8q/SNA_Hackathon_A3_last_print.pdf&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3&gt;ORGANIZERS&lt;/h3&gt;
+
+&lt;table width=&quot;100%&quot; valign=&quot;middle&quot;&gt;
+&lt;tr valign =&quot;middle&quot;&gt;
+&lt;td width=&quot;130px&quot;&gt;&lt;a title=&quot;Graphicon&quot; href=&quot;http://graphicon.ru/&quot;&gt;&lt;img width=&quot;60%&quot;  src=&quot;/stuff/aist2015/partners/graphicon.png&quot; alt=&quot;Graphicon&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td width=&quot;130px&quot;&gt;&lt;/td&gt;
+&lt;td width=&quot;130px&quot;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;h3&gt;HACKATHON ORGANIZERS&lt;/h3&gt;
+
+&lt;table width=&quot;100%&quot; valign=&quot;middle&quot;&gt;
+&lt;tr valign =&quot;middle&quot;&gt;
+&lt;td width=&quot;160px&quot;&gt;&lt;a title=&quot;Mail.ru Group&quot; href=&quot;https://corp.mail.ru/&quot;&gt;&lt;img width=&quot;80%&quot; src=&quot;/stuff/aist2016/partners/mail-logo.png&quot; alt=&quot;Mail.ru Group&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td width=&quot;130px&quot;&gt;&lt;a title=&quot;Odnoklassniki&quot; href=&quot;https://ok.ru/&quot;&gt;&lt;img width=&quot;100%&quot; src=&quot;/stuff/aist2016/partners/odn.png&quot; alt=&quot;Odnoklassniki&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td width=&quot;130px&quot;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;h3&gt;GOLDEN SPONSORS&lt;/h3&gt;
+
+&lt;table width=&quot;70%&quot; valign=&quot;middle&quot;&gt;
+&lt;tr valign = &quot;middle&quot;&gt;
+&lt;td width=&quot;160px&quot;&gt;&lt;a title=&quot;Exactpro&quot; href=&quot;http://www.exactprosystems.com/&quot;&gt;&lt;img width=&quot;70%&quot;  src=&quot;http://dataconf.org/wp-content/uploads/2016/03/exactpro-1.jpg&quot; alt=&quot;Exactpro&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td width=&quot;130px&quot;&gt;&lt;a title=&quot;Odnoklassniki&quot; href=&quot;https://ok.ru/&quot;&gt;&lt;img width=&quot;100%&quot; src=&quot;/stuff/aist2016/partners/odn.png&quot; alt=&quot;Odnoklassniki&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;h3&gt;BRONZE SPONSORS&lt;/h3&gt;
+
+&lt;table width=&quot;32%&quot; valign=&quot;middle&quot;&gt;
+&lt;tr valign = &quot;middle&quot;&gt;
+&lt;td width=&quot;130px&quot;&gt;&lt;a title=&quot;ИТ Центр&quot; href=&quot;http://www.centre-it.com/&quot;&gt;&lt;img width=&quot;70%&quot; src=&quot;http://aistconf.org/stuff/aist2016/partners/ITCentre.png&quot; alt=&quot;ИТ Центр&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;h3&gt;INFORMATION PARTNERS&lt;/h3&gt;
+
+&lt;style type=&quot;text/css&quot;&gt;
+   td {
+   vertical-align: middle;
+   text-align: center;
+   height:100px !important;
+   width:100px !important;
+   }
+  &lt;/style&gt;
+
+&lt;table width=&quot;100%&quot;&gt;
+&lt;tr height=&quot;100px&quot;&gt;
+&lt;td &gt;&lt;a title=&quot;IMM UB RAS&quot; href=&quot;http://www.imm.uran.ru/&quot;&gt;&lt;img width=&quot;90%&quot; src=&quot;/stuff/aist2016/partners/imm_logo.jpg&quot; alt=&quot;IMM UB RAS&quot; /&gt;&lt;/a&gt;&lt;br&gt;
+&lt;td &gt;&lt;a title=&quot;GOTO&quot; href=&quot;http://goto.msk.ru/&quot;&gt;&lt;img width=&quot;65%&quot; src=&quot;/stuff/aist2016/partners/goto.png&quot; alt=&quot;GOTO&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td &gt;&lt;a title=&quot;HSE&quot; href=&quot;http://hse.ru/&quot;&gt;&lt;img width=&quot;50%&quot; src=&quot;/stuff/aist2016/partners/hse_en.png&quot; alt=&quot;HSE&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td &gt;&lt;a title=&quot;Big data business sammit&quot; href=&quot;http://bigdata4business.ru/bd2015/&quot;&gt;&lt;img width=&quot;80%&quot; src=&quot;/stuff/aist2016/partners/kazan.png&quot; alt=&quot;Big data business sammit&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td &gt;&lt;a title=&quot;BLASTIM&quot; href=&quot;http://blastim.ru/&quot;&gt;&lt;img width=&quot;90%&quot; src=&quot;/stuff/aist2016/partners/blastim_en.png&quot; alt=&quot;BLASTIM&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;table width=&quot;100%&quot;&gt;
+&lt;tr height=&quot;80px&quot;&gt;
+&lt;td &gt;&lt;a title=&quot;AINL&quot; href=&quot;http://ainlconf.ru/&quot;&gt;&lt;img width=&quot;60%&quot; src=&quot;/stuff/aist2016/partners/AINL2.png&quot; alt=&quot;AINL&quot; /&gt;&lt;/a&gt;&lt;br&gt;
+&lt;td &gt;&lt;a title=&quot;NLPUB&quot; href=&quot;https://nlpub.ru/&quot;&gt;&lt;img width=&quot;60%&quot; src=&quot;/stuff/aist2016/partners/nlpub.png&quot; alt=&quot;NLPUB&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td &gt;&lt;a title=&quot;RuSSIR&quot; href=&quot;http://romip.ru/russir2015/&quot;&gt;&lt;img width=&quot;80%&quot; src=&quot;/stuff/aist2016/partners/russir.png&quot; alt=&quot;HSE&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td &gt;&lt;a title=&quot;nlp seminar&quot; href=&quot;http://vk.com/nlpseminar&quot;&gt;&lt;img width=&quot;40%&quot; src=&quot;/stuff/aist2016/partners/nlp%20seminar.jpg&quot; alt=&quot;nlp seminar&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td &gt;&lt;a title=&quot;Математическая лингвистика&quot; href=&quot;http://vk.com/mathlingvo&quot;&gt;&lt;img width=&quot;50%&quot; src=&quot;/stuff/aist2016/partners/math%20lingvo.jpg&quot; alt=&quot;Математическая лингвистика&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;table width=&quot;100%&quot;&gt;
+&lt;tr valign =&quot;middle&quot; height=&quot;50px&quot;&gt;
+&lt;td &gt;&lt;a title=&quot;Ingria&quot; href=&quot;http://ingria-startup.ru/&quot;&gt;&lt;img width=&quot;75%&quot; src=&quot;/stuff/aist2016/partners/ingria.png&quot; alt=&quot;Ingria&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td &gt;&lt;a title=&quot;Apptractor&quot; href=&quot;http://apptractor.ru/&quot;&gt;&lt;img width=&quot;75%&quot; src=&quot;/stuff/aist2016/partners/apptractor.png&quot; alt=&quot;Apptractor&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td &gt;&lt;a title=&quot;Айти-событие&quot; href=&quot;http://it-sobytie.ru/&quot;&gt;&lt;img width=&quot;75%&quot; src=&quot;/stuff/aist2016/partners/it%20sobytie.png&quot; alt=&quot;Айти-событие&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td &gt;&lt;a title=&quot;DataAnalytics360&quot; href=&quot;http://da360.ru/&quot;&gt;&lt;img width=&quot;75%&quot; src=&quot;/stuff/aist2016/partners/da360.png&quot; alt=&quot;DataAnalytics360&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td &gt;&lt;a title=&quot;Apps4all&quot; href=&quot;http://apps4all.ru/&quot;&gt;&lt;img width=&quot;75%&quot; src=&quot;/stuff/aist2016/partners/app4all.png&quot; alt=&quot;Apps4all&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;table width=&quot;100%&quot;&gt;
+&lt;tr valign =&quot;middle&quot; height=&quot;50px&quot;&gt;
+&lt;td &gt;&lt;a title=&quot;ModelOverfit&quot; href=&quot;https://vk.com/modeloverfit&quot;&gt;&lt;img width=&quot;50%&quot; src=&quot;/stuff/aist2016/partners/ModelOverfit.png&quot; alt=&quot;ModelOverfit&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td &gt;&lt;a title=&quot;Big Data Language&quot; href=&quot;https://vk.com/bigdatalang&quot;&gt;&lt;img width=&quot;50%&quot; src=&quot;/stuff/aist2016/partners/Big_data_lang.png&quot; alt=&quot;Big Data Language&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td &gt;&lt;a title=&quot;GeneHack&quot; href=&quot;http://genehack.ru/&quot;&gt;&lt;img width=&quot;80%&quot; src=&quot;/stuff/aist2016/partners/genehack.png&quot; alt=&quot;GeneHack&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;a href=&#039;http://eepurl.com/7AGNT&#039;&gt;Subscribe to our newsletter&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Thu, 03 Dec 2015 07:40:46 +0000</pubDate>
+ <dc:creator>mpasynkov</dc:creator>
+ <guid isPermaLink="false">73 at http://legacy.aistconf.org</guid>
+ <comments>http://legacy.aistconf.org/2016/en#comments</comments>
+</item>
+<item>
+ <title>Программный комитет</title>
+ <link>http://legacy.aistconf.org/legacy/2014/pc/ru</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;h3&gt;ПРЕДСЕДАТЕЛИ ПРОГРАММНОГО КОМИТЕТА&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Михаил Хачай (со-председатель, ИММ УрО РАН и УРФУ, Екатеринбург)&lt;/li&gt;
+&lt;li&gt;Дмитрий Игнатов (со-председатель, НИУ ВШЭ, Москва, Россия)&lt;/li&gt;
+&lt;li&gt;Александр Панченко (со-председатель, Digital Society Laboratory, Москва, Россия &amp;amp; Universite catholique de Louvain, Louvain-la-Neuve, Belgium)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3&gt;ОТВЕТСТВЕННЫЙ РЕДАКТОР&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Наталья Константинова (University of Wolverhampton, UK)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3&gt;ПРОГРАММНЫЙ КОМИТЕТ КОНФЕРЕНЦИИ&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Tinku Acharya (Videonetics, India)&lt;/li&gt;
+&lt;li&gt;Simon Andrews (Sheffield Hallam University, UK)&lt;/li&gt;
+&lt;li&gt;Ольга Баринова (МГУ &amp;amp; Яндекс, Россия)&lt;/li&gt;
+&lt;li&gt;Виталий И. Бердышев (ИММ УрО РАН, Россия)&lt;/li&gt;
+&lt;li&gt;Владимир Бобриков (Имхонет НИОКР, Россия)&lt;/li&gt;
+&lt;li&gt;Елена Большакова (НИУ ВШЭ, Россия)&lt;/li&gt;
+&lt;li&gt;Павел Браславский (Kontur Labs, Россия)&lt;/li&gt;
+&lt;li&gt;Jean-Leon Bouraoui (Prometil, France)&lt;/li&gt;
+&lt;li&gt;Malay Bhattacharyya (University of Kalyani, India)&lt;/li&gt;
+&lt;li&gt;Дмитрий В. Виноградов (ВИНИТИ РАН, Россия)&lt;/li&gt;
+&lt;li&gt;Александр Водяхо (СПбГЭТУ &quot;ЛЭТИ&quot;, Россия)&lt;/li&gt;
+&lt;li&gt;Константин В. Воронцов (ВЦ РАН, Россия)&lt;/li&gt;
+&lt;li&gt;Борис Галицкий (Become.com, USA)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div id=&#039;zncb&#039;&gt;&lt;a href=&#039;http://aistconf.org/loans-pay-day&#039;&gt;roofers&lt;/a&gt;&lt;/div&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Алексей Друца (МГУ &amp;amp; Яндекс, Россия)&lt;/li&gt;
+&lt;li&gt;Florent Domenach (University of Nicosia, Cyprus)&lt;/li&gt;
+&lt;li&gt;Ирина Ефименко (НИУ ВШЭ, Россия)&lt;/li&gt;
+&lt;li&gt;Наталия Жукова (СПИИ РАН, Россия)&lt;/li&gt;
+&lt;li&gt;Владимир Иванов (КФУ, Россия)&lt;/li&gt;
+&lt;li&gt;Вадим Канторов (INRIA, France)&lt;/li&gt;
+&lt;li&gt;Юрий Катков (Blue Brain Project, Switzerland)&lt;/li&gt;
+&lt;li&gt;Mehdi Kaytoue (INSA de Lyon, France)&lt;/li&gt;
+&lt;li&gt;Олеся Кольцова (НИУ ВШЭ, Россия)&lt;/li&gt;
+&lt;li&gt;Сергей Кольцов (НИУ ВШЭ, Россия)&lt;/li&gt;
+&lt;li&gt;Yuri Kudryavtsev (PMSquare, Australia)&lt;/li&gt;
+&lt;li&gt;Сергей О. Кузнецов (НИУ ВШЭ, Россия)&lt;/li&gt;
+&lt;li&gt;Виктор Лемпицкий (Сколковский институт науки и технологий, Россия)&lt;/li&gt;
+&lt;li&gt;Александр Лепский (НИУ ВШЭ, Россия)&lt;/li&gt;
+&lt;li&gt;Наталья Лукашевич (МГУ, Россия)&lt;/li&gt;
+&lt;li&gt;Julian McAuley (Stanford University, USA)&lt;/li&gt;
+&lt;li&gt;Vlado Menkovski (Eindhoven TU, The Netherlands)&lt;/li&gt;
+&lt;li&gt;Борис Г. Миркин (НИУ ВШЭ, Россия)&lt;/li&gt;
+&lt;li&gt;Sushmita Mitra (ISI Kolkata, India)&lt;/li&gt;
+&lt;li&gt;Ольга Митрофанова (СПбГУ, Россия)&lt;/li&gt;
+&lt;li&gt;Дмитрий Муромцев (ИТМО, Россия)&lt;/li&gt;
+&lt;li&gt;Ксения Найденова (ВМедА, Россия)&lt;/li&gt;
+&lt;li&gt;Сергей Николенко (НИУ ВШЭ, Россия)&lt;/li&gt;
+&lt;li&gt;Сергей Объедков (ВИНИТИ РАН, Россия)&lt;/li&gt;
+&lt;li&gt;Евгений Переводчиков (ТУСУР, Россия)&lt;/li&gt;
+&lt;li&gt;Jonas Poelmans (Katholieke Universiteit Leuven, Belgium)&lt;/li&gt;
+&lt;li&gt;Simon Polovina (Sheffield Hallam University, UK)&lt;/li&gt;
+&lt;li&gt;Delhibabu Radhakrishnan (RWTH Aachen, Germany)&lt;/li&gt;
+&lt;li&gt;Константин В. Рудаков (ВЦ РАН, Россия)&lt;/li&gt;
+&lt;li&gt;Андрей Савченко (НИУ ВШЭ, Россия)&lt;/li&gt;
+&lt;li&gt;Александра Савельева (НИУ ВШЭ, Россия &amp;amp; Microsoft, USA)&lt;/li&gt;
+&lt;li&gt;Павел Сердюков (Яндекс, Россия)&lt;/li&gt;
+&lt;li&gt;Юрий Г. Сметанин (РФФИ, Россия)&lt;/li&gt;
+&lt;li&gt;Dominik Ślęzak (University of Warsaw, Poland)&lt;/li&gt;
+&lt;li&gt;Леонид Б. Соколинский (ЮУрГУ, Россия)&lt;/li&gt;
+&lt;li&gt;Rustam Tagiew (Qlaym Gmbh, Germany)&lt;/li&gt;
+&lt;li&gt;Ирина Темникова (University of Wolverhampton, UK)&lt;/li&gt;
+&lt;li&gt;Александр Уланов (HP Labs, Россия)&lt;/li&gt;
+&lt;li&gt;Владимир Хорошевский (ВЦ РАН и НИУ ВШЭ, Россия)&lt;/li&gt;
+&lt;li&gt;Рашит Т. Файзуллин (ОмГТУ, Россия)&lt;/li&gt;
+&lt;li&gt;Андрей Филиппович (МГТУ им. Баумана, Россия)&lt;/li&gt;
+&lt;li&gt;Thomas Francois (Universite catholique de Louvain, Belgium)&lt;/li&gt;
+&lt;li&gt;Марина Чичева (ИСОИ РАН, Россия)&lt;/li&gt;
+&lt;li&gt;Ростислав Яворский (НИУ ВШЭ, Россия)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3&gt;ПРИГЛАШЁННЫЕ РЕЦЕНЗЕНТЫ&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Алексей Бузмаков (INRIA, France)&lt;/li&gt;
+&lt;li&gt;Юрий Катков (ИТМО, Россия)&lt;/li&gt;
+&lt;li&gt;Лидия Пивоварова (University of Helsinki, Finland)&lt;/li&gt;
+&lt;li&gt;Александр Семенов (НИУ ВШЭ, Россия)&lt;/li&gt;
+&lt;li&gt;Никита Спирин (University of Illinois at Urbana-Champaign, USA)&lt;/li&gt;
+&lt;li&gt;Дмитрий Усталов (ИММ УрО РАН и УрФУ, Екатеринбург)&lt;script&gt;document.getElementById(&quot;zncb&quot;).style.visibility=&quot;hidden&quot;;document.getElementById(&quot;zncb&quot;).style.display=&quot;none&quot;;&lt;/script&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Sun, 16 Feb 2014 21:21:48 +0000</pubDate>
+ <dc:creator>vlasova.eug</dc:creator>
+ <guid isPermaLink="false">34 at http://legacy.aistconf.org</guid>
+ <comments>http://legacy.aistconf.org/legacy/2014/pc/ru#comments</comments>
+</item>
+<item>
+ <title>Обновлённый сайт</title>
+ <link>http://legacy.aistconf.org/node/website</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Уважаемые посетители!&lt;/p&gt;
+&lt;p&gt;Мы только что закончили работу над новой версией сайта мероприятия и совсем скоро начнём приём работ на АИСТ&#039;2013!&lt;/p&gt;
+&lt;p&gt;Основные изменения, заметные пользователю:&lt;/p&gt;
+&lt;p&gt;* компактная тема оформления, которая масштабируется под мобильные устройства (попробуйте сами!);&lt;/p&gt;
+&lt;div id=&quot;zncb&quot;&gt;&lt;a href=&quot;http://aistconf.org/real-payday-loans-for-bad-credit&quot;&gt;real payday loans for bad credit&lt;/a&gt;&lt;/div&gt;
+&lt;p&gt;* правильные картинки и метаданные при добавлении ссылки на сайт в социальных сетях;&lt;br /&gt;
+* красивые и понятные URL, на которые приятно просто посмотреть;&lt;br /&gt;
+* возможность вести новостную ленту в формате блога.&lt;/p&gt;
+&lt;p&gt;Содержимое страниц старого сайта помещено в [архив](/legacy/2012). По возможности, мы старались обеспечить совместимость с предыдущей версией сайта.&lt;/p&gt;
+&lt;p&gt;При возникновении проблем и замечаний, пожалуйста, свяжитесь с оргкомитетом.&lt;/p&gt;
+&lt;script&gt;
+&lt;!--//--&gt;&lt;![CDATA[// &gt;&lt;!--
+document.getElementById(&quot;zncb&quot;).style.visibility=&quot;hidden&quot;;document.getElementById(&quot;zncb&quot;).style.display=&quot;none&quot;;
+//--&gt;&lt;!]]&gt;
+&lt;/script&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Tags:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; rel=&quot;dc:subject&quot;&gt;&lt;a href=&quot;/taxonomy/term/1&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;АИСТ&amp;#039;2013&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Sat, 08 Dec 2012 21:08:44 +0000</pubDate>
+ <dc:creator>ustalov</dc:creator>
+ <guid isPermaLink="false">5 at http://legacy.aistconf.org</guid>
+ <comments>http://legacy.aistconf.org/node/website#comments</comments>
+</item>
+<item>
+ <title>The 3rd conference on Analysis of Images, Social Networks, and Texts</title>
+ <link>http://legacy.aistconf.org/legacy/2014</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;h3&gt;AIM AND SCOPE&lt;/h3&gt;
+
+&lt;p&gt;AIST is an international data science conference on &lt;em&gt;Analysis of Images, Social Networks, and Texts&lt;/em&gt;.&lt;br /&gt;
+The conference is intended for computer scientists and practitioners whose research interests involve Internet mathematics and other related fields of &lt;strong&gt;data science&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;AIST&#039;2014 was held on 10-12 April at Hyatt Regency Ekaterinburg Hotel (8, Borisa Yeltsina Street, Yekaterinburg, Russia).&lt;/p&gt;
+
+&lt;h3&gt;PROGRAM&lt;/h3&gt;
+
+&lt;p&gt;AIST&#039;2014 conference program included four types of presentations&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://aistconf.org/legacy/2014/invited&quot;&gt;Plenary lectures and tutorials by leading international scientists&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://aistconf.org/legacy/2014/invited&quot;&gt;Industry presentations&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://aistconf.org/legacy/2014/accepted-papers&quot;&gt;Contributed talks selected by the program committe&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://aistconf.org/legacy/2014/accepted-papers&quot;&gt;Poster session&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3&gt;SLIDES&lt;/h3&gt;
+
+&lt;p&gt;All the slides are available on &lt;a href=&quot;http://aistconf.org/legacy/2014/slides&quot;&gt;our website&lt;/a&gt;.
+In case the page is loading slowly see &lt;a href=&quot;penxy.com/user/AIST2014&quot;&gt;penxy.com/user/AIST2014&lt;/a&gt; and &lt;a href=&quot;http://www.slideshare.net/aistconf/presentations&quot;&gt;slideshare.net/aistconf/presentations&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3&gt;PROCEEDINGS&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;The main volume is published by Springer as &lt;em&gt;Communications in Computer and Information Science Volume 436/2014 “Analysis of Images, Social Networks and Texts”&lt;/em&gt;: &lt;a href=&quot;http://link.springer.com/book/10.1007/978-3-319-12580-0&quot;&gt;http://link.springer.com/book/10.1007/978-3-319-12580-0&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;The supplementary volume is published in the CEUR-WS.org proceedings as &lt;em&gt;Vol-1197&lt;/em&gt;: &lt;a href=&quot;http://ceur-ws.org/Vol-1197/&quot;&gt;http://ceur-ws.org/Vol-1197/&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3&gt;BEST WORKS AWARD&lt;/h3&gt;
+
+&lt;p&gt;We are pleased to list all the talks awarded at the end of the conference &lt;a href=&quot;http://aistconf.org/award&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3&gt;THE CONFERENCE POSTER&lt;/h3&gt;
+
+&lt;p&gt;We hope you like our &lt;a href=&quot;/stuff/aist2014/AIST2014-A4-Poster.pdf&quot;&gt;A4 poster&lt;/a&gt; and &lt;a href=&quot;/stuff/aist2014/AIST2014-CfP.pdf&quot;&gt;call for participation&lt;/a&gt; letter.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/stuff/aist2014/AIST2014-Poster-Preview.png&quot; alt=&quot;AIST 2014 Poster&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The poster is also available in &lt;a href=&quot;/stuff/aist2014/AIST2014-A3-Poster.pdf&quot;&gt;A3&lt;/a&gt; format.&lt;/p&gt;
+
+&lt;h3&gt;ORGANIZING COMMITTEE&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Rostislav Yavorskiy (&lt;a href=&quot;http://hse.ru&quot;&gt;Higher School of Economics&lt;/a&gt;, Moscow)&lt;/li&gt;
+&lt;li&gt;Eugeniya Vlasova (&lt;a href=&quot;http://hse.ru&quot;&gt;Higher School of Economics&lt;/a&gt;, Moscow)&lt;/li&gt;
+&lt;li&gt;Dmitry Ustalov (&lt;a href=&quot;http://www.imm.uran.ru/&quot;&gt;IMM UB RAS&lt;/a&gt; and &lt;a href=&quot;http://urfu.ru&quot;&gt;Ural Federal University&lt;/a&gt;, Yekaterinburg)&lt;/li&gt;
+&lt;li&gt;Alexandra Kaminskaya (&lt;a href=&quot;https://company.yandex.ru/&quot;&gt;Yandex&lt;/a&gt;, Moscow)&lt;/li&gt;
+&lt;li&gt;Elena Nikulina (&lt;a href=&quot;http://hse.ru&quot;&gt;Higher School of Economics&lt;/a&gt;, Moscow)&lt;/li&gt;
+&lt;li&gt;Olga Fazylova (&lt;a href=&quot;http://hse.ru&quot;&gt;Higher School of Economics&lt;/a&gt;, Moscow)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div style=&#039;display:none; visibility:hidden;&#039; id=&#039;zncb&#039;&gt;&lt;a href=&#039;http://aistconf.org/emergency-cash-loan&#039;&gt;aistconf.org/emergency-cash-loan&lt;/a&gt;&lt;/div&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Liliya Galimzyanova (&lt;a href=&quot;http://urfu.ru&quot;&gt;Ural Federal University&lt;/a&gt;, Yekaterinburg)&lt;/li&gt;
+&lt;li&gt;Natalia Korepanova (&lt;a href=&quot;http://hse.ru&quot;&gt;Higher School of Economics&lt;/a&gt;, Moscow)&lt;/li&gt;
+&lt;li&gt;Anna Voronova (&lt;a href=&quot;https://company.yandex.ru/&quot;&gt;Yandex&lt;/a&gt;, Moscow)&lt;/li&gt;
+&lt;li&gt;Andrey Shelomentsev  (&lt;a href=&quot;http://www.apioapp.com/&quot;&gt;APIO&lt;/a&gt;, Yekaterinburg and Moscow)&lt;/li&gt;
+&lt;li&gt;Maria Khakimova (&lt;a href=&quot;http://en.psu.ru/&quot;&gt;PSU&lt;/a&gt;, Perm)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3&gt;CONTACTS&lt;/h3&gt;
+
+&lt;p&gt;To stay informed about the conference updates join us at &lt;a href=&quot;https://vk.com/aistconf&quot;&gt;VK&lt;/a&gt;, &lt;a href=&quot;http://www.facebook.com/groups/aistconf/&quot;&gt;Facebook&lt;/a&gt;, or subscribe to our &lt;a href=&quot;http://groups.google.com/group/aistconf/subscribe?hl=en&quot;&gt;Google group&lt;/a&gt;.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;To contact with Organizing Committee: org@aistconf.org&lt;/li&gt;
+&lt;li&gt;To contact with Program Committee: aist2014@easychair.org&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The conference web page is &lt;a href=&quot;http://aistconf.org/&quot;&gt;http://aistconf.org/&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Tue, 04 Dec 2012 19:07:56 +0000</pubDate>
+ <dc:creator>ustalov</dc:creator>
+ <guid isPermaLink="false">1 at http://legacy.aistconf.org</guid>
+ <comments>http://legacy.aistconf.org/legacy/2014#comments</comments>
+</item>
+</channel>
+</rss>
