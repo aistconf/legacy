@@ -1,0 +1,33 @@
+name: Restore archived AIST website
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+jobs:
+  restore:
+    if: ${{ !contains(github.event.head_commit.message, '[archive complete]') }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+      - name: Download preserved website
+        run: python3 mirror_wayback.py --url http://legacy.aistconf.org/ --timestamp 20180406140517 --output restored-site --base legacy --max-urls 700
+      - name: Prepare static GitHub Pages copy
+        run: |
+          cp -a restored-site/. .
+          rm -rf restored-site
+          touch .nojekyll
+          rm mirror_wayback.py
+      - name: Commit restored site
+        run: |
+          git config user.name "AIST Archive Bot"
+          git config user.email "org@aistconf.org"
+          git add -A
+          git commit -m "Restore archived AIST website [archive complete]"
+          git push
+
